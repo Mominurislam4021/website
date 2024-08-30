@@ -1,2 +1,3 @@
 # website
-This is my first website
+This repository is for practice
+
